@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalculatorImplementation()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=num1\ num2
+comment2.target=int\ add(int,\ int)
+comment3.params=num1\ num2
+comment3.target=int\ subtract(int,\ int)
+comment4.params=num1\ num2
+comment4.target=int\ multiply(int,\ int)
+comment5.params=num1\ num2
+comment5.target=int\ divide(int,\ int)
+comment6.params=num1\ num2
+comment6.target=float\ add(float,\ float)
+comment7.params=num1\ num2
+comment7.target=float\ subtract(float,\ float)
+comment8.params=num1\ num2
+comment8.target=float\ divide(float,\ float)
+comment9.params=num1\ num2
+comment9.target=float\ multiply(float,\ float)
+numComments=10
